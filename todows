@@ -1,0 +1,3 @@
+# TODO: explore github actions
+# TODO: create a program which sends data to a Discord webhook then it will be automated by github actions
+# TODO: explore github variables for a better security (not hardcoding)
